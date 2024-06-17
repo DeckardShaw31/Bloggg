@@ -1,0 +1,102 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Ảnh hưởng của mạng xã hội đối với Học sinh THCS</title>
+<meta name="keywords" content="Nghiện mạng xã hội, Nghiện Facebook, Nghiện internet, youtube" />
+<meta name="description" content="Nơi chia sẻ những ảnh hưởng của mạng xã hội đối với học sinh" />
+<link href="../style.css" rel="stylesheet" type="text/css" />
+<script language="javascript" type="text/javascript">
+function clearText(field)
+{
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+</head>
+<body>
+<div id="container">
+    <div id="banner">
+   	 <!-- <div id="search_section">
+            <form action="#" method="get">
+                <input type="text" value="Enter keyword here..." name="q" size="10" id="searchfield" 
+					title="searchfield" onfocus="clearText(this)" onblur="clearText(this)" />
+              	<input type="submit" name="Search" value="" alt="Search" id="searchbutton" title="Search" />
+            </form>
+      </div> -->
+    </div>
+    <div id="menu">
+        <ul>
+            <li><a href="#" class="current">Trang chủ</a></li>
+            <li><a href="#">Cảnh bảo đỏ</a></li>
+            <li><a href="#">Dừng điểm vàng</a></li>
+        <li><a href="#">Tiến bước xanh</a></li>
+          <li><a href="#">Góc chia sẻ</a></li>
+            <li></li>
+      </ul>    	
+    </div> 
+    <!-- end of menu -->
+    
+  <div id="content">
+    	<!-- Trang giai phap -->
+               
+        <p>Về phía nhà trường:</p>
+<p>+ Nhà trường cần có sự khảo sát, đánh giá tổng thể tình hình, mức độ sử dụng MXH của học sinh ở trường mình để đề ra chương trình hành động phù hợp</p>
+<p>+ Tổ chức những buổi tuyên truyền hay cuộc thi tìm hiểu MXH nhằm nâng cao nhận thức cho học sinh về kỹ năng sử dụng MXH .</p>
+<p>+ Nhà trường nên xây dựng nhiều hoạt động, chương trình vui chơi hấp dẫn để thu hút các em tham gia như các hoạt động văn hoá - văn nghệ, hoạt động dã ngoại, hoạt động lao động, các hoạt động mang ý nghĩa xã hội... để các em thoả mãn được nhu cầu vui chơi, giải trí và lòng ham hiểu biết của mình, giảm bớt tình trạng thiếu sân chơi nên tiêu tốn thời gian cho những chương trình vô bổ trên mạng.</p>
+<p>+ Giáo viên chủ nhiệm lớp giữ vai trò đặc biệt trong việc định hướng sử dụng MXH cho học sinh. Giáo viên cần có sự quan tâm, gần gũi hơn nữa, lắng nghe những tâm tư, nguyện vọng của các em về những vấn đề trong cuộc sống. Giáo viên nên giúp các em có cái nhìn đúng đắn về những vấn đề trên MXH; biết cách hạn chế những tác động tiêu cực từ MXH; giúp các em tự xây dựng cho mình kế hoạch hoạt động, học tập, lối sống khoa học, hợp lí. Đồng thời, giáo viên cần phải thường xuyên theo dõi, giám sát những học sinh có dấu hiệu bất thường, những biểu hiện có liên quan đến việc nghiện MXH, những dấu hiệu xấu từ sự tác động tiêu cực của MXH để kịp thời phối hợp với gia đình ngăn chặn, hướng dẫn, giúp đỡ các em khắc phục những tác động tiêu cực từ MXH.</p>
+<p>+ Nhấn mạnh vai trò của nhà trường không thể không nhắc đến vai trò của đoàn thanh niên. Tổ chức này cần phải thực hiện vai trò và trách nhiệm của mình trong việc vận động, lôi kéo, hướng dẫn, dìu dắt học sinh vào các hoạt động, bồi dưỡng tư tưởng, tinh thần cho các em; là tổ chức kiến nghị, đề xuất với nhà trường nhiều hoạt động ý nghĩa, những hoạt động liên quan đến các vấn đề xã hội, đặc biệt là vấn đề sử dụng MXH; phối hợp tổ chức các cuộc thi, tuyên truyền, vận động giúp nâng cao nhận thức, hình thành cho các em ý thức cao trong việc tham gia MXH, phát huy những tác động tích cực và hạn chế những ảnh hưởng xấu từ MXH.</p>
+   <p> Về phía gia đình:</p>
+<p>+ Không nên ngăn cấm con dùng MXH mà nên có kế hoạch quản lý cách dùng MXH của con.Theo TS. Vũ Ngọc Phan, giảng viên đại học Phenikaa (Hà Đông, Hà Nội ) “Nếu bị hạn chế tiếp xúc với mạng xã hội, trẻ sẽ thiệt thòi vì thiếu kiến thức, nhất là trong môi trường công việc, các em sẽ gặp nhiều khó khăn trong cuộc sống số đầy cạnh tranh. Hơn nữa, nếu các em không được trang bị tốt thì cảm xúc của các em sẽ không được phát triển lành mạnh. Trẻ rất dễ bị cuốn theo các trào lưu xấu ở trên mạng, nếu các em không có bản lĩnh”.</p>
+<p>+ Hãy dạy con không coi MXH là rủi ro, nguy cơ mà là cái gì rất gần gũi với chúng. Thay vì chỉ đạo, ngăn cản hãy khuyến khích con hướng đến những lợi ích và tận dụng được sự phát triển của MXH, đó là cách thay đổi tư duy về giáo dục con trong vấn đề này.</p>
+<p>+ Phụ huynh cần thay đổi, đó là việc người lớn phải kiểm soát bản thân mình để làm gương cho con trẻ. Bởi thực tế, không ít bậc cha mẹ cũng sử dụng MXH trong nhiều giờ, không dành nhiều thời gian để nói chuyện với con. Chính bản thân cha mẹ cũng dùng MXH chưa phù hợp như dùng MXH chế giễu người khác, bình luận chê bai hay có những nhận xét tiêu cực. “Cha mẹ ảnh hưởng rất lớn đến con cái. Người lớn chưa hiểu đúng, hiểu rõ thì làm sao dạy được bọn trẻ? Cha mẹ phải giáo dục con từ các giá trị đạo đức trong mối quan hệ với cha mẹ, thầy cô, bạn bè. Cha mẹ phải có quan tâm đúng mức tới cảm xúc của con để giúp chúng cảm được đầy đủ tình yêu thương của gia đình, bởi gia đình là cái gốc giúp định hình nhân cách con trẻ. Nếu trên trang cá nhân, các bậc cha mẹ thường chia sẻ những lời hay ý đẹp, những hình ảnh vui tươi thì tôi tin con, em họ cũng sẽ học tập và làm theo, từ đó có thái độ sống tích cực", Tiến sĩ Vũ Ngọc Phan nói.</p>
+  <p>Bản thân:</p>
+<p>+Gỡ ứng dụng mạng xã hội ra khỏi điện thoại</P>
+<p>+Đặt ra những nguyên tắc cơ bản: sử dụng bao nhiêu tiếng,..</p>
+<p>+Lựa chọn mạng xã hội để sử dụng:zalo,skype,.. chỉ để liên </p>
+<p>Ưu tiên những hình thức giải trí khác: đá bóng, tập yoga,...</p>
+    <div class="cleaner"></div> 
+    </div> <!-- end of content -->
+   <div id="content">
+        <!-- TRang nguyen nhan -->
+<p>*Nguyên nhân lớn nhất vẫn là ở chính bản thân người nghiện Facebook. Sống trong thế giới công nghệ, được tiếp nhận những tinh hoa văn hóa nhân loại nhưng lại không làm chủ được mình.</p>
+
+<p>1. Nhu cầu thể hiện bản thân</p>
+<p>Thông qua chụp cộng hưởng từ MRI, các nhà khoa học khám phá ra rằng khi con người nói tự về bản thân mình, não bộ cũng có cảm giác hài lòng và tạo ra những trải nghiệm thú vị, tương tự như khi quan hệ tình dục hoặc được ăn uống. Theo một nghiên cứu khác, những đứa trẻ khoảng 9 tháng tuổi thường có những hành động để cố gắng thu hút sự chú ý từ người thân trong gia đình. Vì vậy khi lớn lên, con người vẫn muốn cung cấp thông tin về bản thân mình và tự thể hiện với người khác. Nếu thông thường mọi người dành gần 40% thời gian để nói về bản thân họ, thì con số này đạt tới 80% nhờ vào những tính năng đặc trưng có trong các mạng xã hội.
+Giống như cơ chế nghiện các chất kích thích khác, việc kích hoạt hệ thống tưởng thưởng của não bộ thông qua tự thể hiện bản thân có thể làm tăng mức độ dopamine, tạo ra thời gian sử dụng quá mức và là nguyên nhân giới trẻ nghiện mạng xã hội.</p>
+<p>2.Nhu cầu được kết nối và thuộc về</p>
+<p>Mạng xã hội đem đến cho người dùng cảm giác được tương tác với bất kỳ ai, từ bạn bè, đồng nghiệp, gia đình cho đến những người nổi tiếng và thần tượng. Nhưng thực chất, người dùng chỉ đang tương tác với nền tảng được xây dựng bởi đa dạng các nội dung do nhiều người sáng tạo nên.Nhu cầu được kết nối và thuộc về còn thể hiện qua lời mời và chấp nhận kết bạn, lượt chia sẻ hay lượt "like", bình luận... Dễ thấy, mạng xã hội khuyến khích người dùng phải đăng nội dung thường xuyên và có sức lan tỏa mạnh. Nếu không, vô số những bài viết mới khác sẽ được cập nhật và xuất hiện trên giao diện bảng tin rất nhanh, và điều đó khiến bài đăng của chúng ta nhanh chóng bị rơi vào quên lãng.
+Ngoài ra, để kết nối người dùng, mạng xã hội còn đưa ra tính năng "tag" - gắn tên để gửi thông báo tới những người bạn khác, và "hashtag". Điều này lôi kéo và thu hút các "con nghiện" cùng nhau bàn luận trên một chủ đề mà tất cả đều quan tâm, biến không gian mạng xã hội trở thành “ngôi nhà chung” cho những người dùng có quan điểm giống nhau thuộc về.</p>
+<p>3. Mạng xã hội tạo tâm lý như đánh bạc</p>
+<p>Mạng xã hội được ví như một "sòng bạc", trong đó mỗi người dùng là “con bạc” có nhiệm vụ đặt cược vào nội dung bản thân sáng tạo mỗi ngày. Ai cũng có mong muốn thu hút được nhiều lượt like, bình luận tích cực và chia sẻ đồng tình. Do đó họ cần tính toán xem phải viết gì để vừa lòng cộng đồng mạng, nhưng không đoán trước được kết quả tương tự như trước mỗi ván bài. Mặc dù đầu tư rất chỉnh chu cho mỗi bài đăng, song đôi lúc người dùng lại nhận được sự thờ ơ thay vì tán dương ủng hộ như tưởng tượng, thậm chí một số trường hợp còn là sự phẫn nộ từ phần lớn “cư dân mạng” khác.
+Ngoài ra, những sòng bài thường tìm cách khiến các khách chơi quên mất ý thức về thời gian và lao vào các cuộc vui đen - đỏ vô độ. Họ giảm bớt ánh sáng mặt trời vào trong phòng, không có cửa sổ, đồng hồ, và liên tục phục vụ đồ ăn thức uống. Tương tự, mạng xã hội cũng dùng cách khiến thành viên liên tục phải dán mắt vào điện thoại bởi vì nỗi sợ bị lạc hậu. Các luồng thông tin mới cập nhật thay vì được ghi rõ ngày giờ, mạng xã hội có xu hướng hiển thị khoảng thời gian đo đếm kể từ khi bài viết được đăng, ví dụ "5 phút trước", "10 giờ trước"... Bên cạnh đó, người dùng tìm đến mạng xã hội để có được cảm giác trốn thoát thực tại, rời xa bữa ăn cô độc, vấn đề trục trặc trong những mối quan hệ và công việc, ... Trong khi đó, thế giới ảo trên mạng không có sự tồn tại của hiện thực và hứa hẹn sẽ mang lại nhiều niềm vui, thú vị cho người dùng.</p>
+
+<p>4.Vì chẳng có việc gì để làm, tránh khỏi cảm giác lạc lõng.</p>
+
+<p>5.Giải tỏa cảm xúc.</p>
+
+<p>6.Trốn khỏi thế giới thực.</p>
+    <div class="cleaner"></div>
+     </div> <!-- end of content-->
+    <div id="templatemo_footer">
+    
+    	<ul class="footer_list">
+            <li><a href="#">Trang chủ</a></li>
+            <li><a href="#">Báo động đỏ</a></li>
+            <li><a href="#">Dừng điểm vàng</a></li>
+            <li><a href="#">Tiếp bước xanh</a></li>
+            <li class="last"><a href="#">Góc chia sẽ</a></li>
+        </ul> 
+        
+        <div class="margin_bottom_10"></div>
+    	Copyright © 2024 <a href="../subpage.html">Your Company Name</a> | 
+		Designed by <a href="http://www.templatemo.com/page/1" target="_parent">Free CSS Templates</a>
+        <div class="margin_bottom_10"></div>
+        
+<a href="http://validator.w3.org/check?uri=referer"><img style="border:0;width:88px;height:31px" src="http://www.w3.org/Icons/valid-xhtml10" alt="Valid XHTML 1.0 Transitional" width="88" height="31" vspace="8" border="0" /></a>
+<a href="http://jigsaw.w3.org/css-validator/check/referer"><img style="border:0;width:88px;height:31px"  src="http://jigsaw.w3.org/css-validator/images/vcss-blue" alt="Valid CSS!" vspace="8" border="0" /></a>
+    	<div id="templatemo_footer_bottom"></div>
+    </div>
+</div>
+</body>
+</html>
